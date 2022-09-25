@@ -36,5 +36,6 @@
 
 ## 3. The coin with the most 0s you managed to find
 - We managed to find 2 coins with 6 Leading Zeros with 1.81986 cpu time to real-time ratio 
-- ![alt text](https://github.com/[vamsi3379]/[DOSP_Project1_BitcoinMining]/blob/[main]/6_leading_zeroes_and_2 workers.png?raw=true
+- ![alt text](https:/<img width="1438" alt="6 leading zeroes and 2 workers" src="https://user-images.githubusercontent.com/48962308/192126342-19974a04-26f7-4265-aeee-338aa9e729df.png">
+/github.com/[vamsi3379]/[DOSP_Project1_BitcoinMining]/blob/[main]/6_leading_zeroes_and_2 workers.png?raw=true
 ## 4. The largest number of working machines you were able to run your code with.
