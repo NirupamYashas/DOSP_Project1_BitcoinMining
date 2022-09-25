@@ -48,8 +48,8 @@
 
 
 ## 4. The coin with the most 0s you managed to find
-- We managed to find 2 coins with 6 Leading Zeros with 1.81986 cpu time to real-time ratio 
-<img width="1438" alt="6 leading zeroes and 2 workers" src="https://user-images.githubusercontent.com/48962308/192126342-19974a04-26f7-4265-aeee-338aa9e729df.png">
+- We managed to find 1 coins with 7 Leading Zeros with 1.81986 cpu time to real-time ratio 
+<img width="1440" alt="Screenshot 2022-09-24 at 11 41 31 PM" src="https://user-images.githubusercontent.com/48962308/192127276-186a8c60-da03-41cf-822d-bc49fc2b631c.png">
 
 ## 5. The largest number of working machines you were able to run your code with.
 
