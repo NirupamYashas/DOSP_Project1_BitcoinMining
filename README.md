@@ -5,7 +5,7 @@
 | Names | UF-ID |
 | ------ | ------ |
 | Vamsi Pachamatla | 1708-0059 |
-| Yashas Kuchimanchi | 5043-1189 |
+| Satya Venkata Sai Nirupam Yashas Kuchimanchi | 5043-1189 |
 
 ## Steps to Run the Code
 
