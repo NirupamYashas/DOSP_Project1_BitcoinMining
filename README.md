@@ -42,9 +42,12 @@
 #### 1000 workers with 4 leading zeroes
 <img width="1439" alt="4 leading zeroes and 1000 Bitcoins" src="https://user-images.githubusercontent.com/48962308/192126433-f81b26e0-5425-42a6-9250-30ebc20f0f96.png">
 
+## 3. Cores Utilization
+- For 8 core machine, our program managed to get 6.59782 ratio for 3 leading zeroes while mining 500 bitcoins.
 
-## 3. The coin with the most 0s you managed to find
+
+## 4. The coin with the most 0s you managed to find
 - We managed to find 2 coins with 6 Leading Zeros with 1.81986 cpu time to real-time ratio 
 <img width="1438" alt="6 leading zeroes and 2 workers" src="https://user-images.githubusercontent.com/48962308/192126342-19974a04-26f7-4265-aeee-338aa9e729df.png">
 
-## 4. The largest number of working machines you were able to run your code with.
+## 5. The largest number of working machines you were able to run your code with.
