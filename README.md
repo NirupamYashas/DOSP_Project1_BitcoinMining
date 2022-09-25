@@ -32,6 +32,8 @@
 
 ## 2. Result for running the program on Input: 4
 
+- The CPU to Real-time ratio for four leading zeroes with 100 workers is 5.63650, the ratio for 500 workers is 5.77696, and the ratio for 1000 workers is 5.86406. The utilization of the cores keeps on increasing when we increase the cores.
+
 ## 3. The coin with the most 0s you managed to find
 - We managed to find 2 coins with 6 Leading Zeros with 1.81986 cpu time to real-time ratio 
 - ![Q3_img](../DOSP_Project1_BitcoinMining/6 leading zeroes and 2 workers.png)
