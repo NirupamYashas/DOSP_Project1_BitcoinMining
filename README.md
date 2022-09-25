@@ -12,13 +12,7 @@
 
 
 ## Instructions to run the code
-
-#### 1. Server and Client are on Different Systems
-
-#### 2. Server and Client are executed in the Same System 
-
-
-## 
+ 
 ## 1. Size of the Work Unit for 4 leading zeros
 
 | Actors | Ratio( CPU time / Realtime) - 3 Leading Zeros | Ratio( CPU time / Realtime) - 4 Leading Zeros |
@@ -44,6 +38,8 @@
 
 ## 3. Cores Utilization
 - For 8 core machine, our program managed to get 6.59782 ratio for 3 leading zeroes while mining 500 bitcoins.
+<img width="1440" alt="3 leading zeroes and 500 Bitcoins" src="https://user-images.githubusercontent.com/48962308/192126754-27886b78-59af-4c76-b816-bb3a59bb8baa.png">
+
 
 
 ## 4. The coin with the most 0s you managed to find
