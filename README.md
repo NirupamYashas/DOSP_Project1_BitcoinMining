@@ -34,9 +34,10 @@
 
 - The CPU to Real-time ratio for four leading zeroes with 100 workers is 5.63650, the ratio for 500 workers is 5.77696, and the ratio for 1000 workers is 5.86406. The utilization of the cores keeps on increasing when we increase the cores.
 #### 100 workers with 4 leading zeroes
-- <img width="1440" alt="4 leading zeroes and 100 Bitcoins" src="https://user-images.githubusercontent.com/48962308/192126428-b197d80e-ab0a-4dfa-87fd-71f174213c59.png">
+<img width="1440" alt="4 leading zeroes and 100 Bitcoins" src="https://user-images.githubusercontent.com/48962308/192126428-b197d80e-ab0a-4dfa-87fd-71f174213c59.png">
 #### 500 workers with 4 leading zeroes
 <img width="1438" alt="4 leading zeroes and 500 Bitcoins" src="https://user-images.githubusercontent.com/48962308/192126431-bd7c43b7-a615-4c03-bde6-0748b494e39d.png">
+
 #### 1000 workers with 4 leading zeroes
 <img width="1439" alt="4 leading zeroes and 1000 Bitcoins" src="https://user-images.githubusercontent.com/48962308/192126433-f81b26e0-5425-42a6-9250-30ebc20f0f96.png">
 
