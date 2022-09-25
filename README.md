@@ -48,7 +48,7 @@
 
 
 ## 4. The coin with the most 0s you managed to find
-- We managed to find 1 coins with 7 Leading Zeros.
+- It took approximately 30 mins to find one coin with 7 Leading Zeros.
 <img width="1440" alt="Screenshot 2022-09-24 at 11 41 31 PM" src="https://user-images.githubusercontent.com/48962308/192127276-186a8c60-da03-41cf-822d-bc49fc2b631c.png">
 
 ## 5. The largest number of working machines you were able to run your code with.
