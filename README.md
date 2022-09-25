@@ -37,7 +37,7 @@
 <img width="1439" alt="4 leading zeroes and 1000 Bitcoins" src="https://user-images.githubusercontent.com/48962308/192126433-f81b26e0-5425-42a6-9250-30ebc20f0f96.png">
 
 ## 3. Cores Utilization
-- For 8 core machine, our program managed to get 6.59782 ratio for 3 leading zeroes while mining 500 bitcoins.
+- For 8 core machine, our program managed to get 6.59782 ratio for 3 leading zeroes while mining 1000 bitcoins.
 <img width="1440" alt="3 leading zeroes and 500 Bitcoins" src="https://user-images.githubusercontent.com/48962308/192126754-27886b78-59af-4c76-b816-bb3a59bb8baa.png">
 
 
