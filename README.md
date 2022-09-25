@@ -53,7 +53,7 @@
 
 ## 5. The largest number of working machines you were able to run your code with.
 
-##### We Executed our program on 4 machines, and we managed to get access from all of them. We also managed to make server client connection work in all the combinations possible. 
+#### We Executed our program on 4 machines, and we managed to get access from all of them. We also managed to make server client connection work in all the combinations possible. 
 
 - Apple M1 Pro chip: 10-core CPU with 8 performance cores and 2 efficiency cores
 - Apple M1 chip:  8-core CPU with 4 performance cores and 4 efficiency cores
