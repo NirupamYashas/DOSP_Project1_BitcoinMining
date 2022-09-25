@@ -7,11 +7,16 @@
 | Vamsi Pachamatla | 1708-0059 |
 | Yashas Kuchimanchi | 5043-1189 |
 
-## Overview
+## Steps to Run the Code
 
+1. Install Erlang on your system using the homebrew.
+2. Find the IP address of your machine.
+3. Initialize the Erlang shell in the folder you want using the code "erl -name vamsi@192.168.0.55" in the terminal.
+4. Compile the module using the "c(question1mining).".
+5. Initialize the server using this "question1mining:startNewServer()."
+6. Enter the number of leading zeroes that you would like.
+7. You can start the mining with the code ."question1mining:minebitcoin('vamsi@192.168.0.55',10).".
 
-
-## Instructions to run the code
  
 ## 1. Size of the Work Unit for 4 leading zeros
 
@@ -47,3 +52,10 @@
 <img width="1438" alt="6 leading zeroes and 2 workers" src="https://user-images.githubusercontent.com/48962308/192126342-19974a04-26f7-4265-aeee-338aa9e729df.png">
 
 ## 5. The largest number of working machines you were able to run your code with.
+
+##### We Executed our program on 4 machines, and we managed to get access from all of them. We also managed to make server client connection work in all the combinations possible. 
+
+- Apple M1 Pro chip: 10-core CPU with 8 performance cores and 2 efficiency cores
+- Apple M1 chip:  8-core CPU with 4 performance cores and 4 efficiency cores
+- Intel® CoreTM i5-6200U Processor, 2 core processor
+- Intel® CoreTM i7-8750H Processor, 6 cores
